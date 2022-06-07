@@ -1,1 +1,2 @@
-# Advanced-Contact-Tracing-Backend
+# Advanced Contact Tracing Backend
+Written in Node.
